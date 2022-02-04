@@ -1,4 +1,4 @@
 # Titanic Challenge
-Input ->
-Model ->
-Output -> Survived Variable 
+## TODO
+- [] Implement Pearson Correlation and test over dataset.
+- [] Implement Spearman Correlation and test over dataset.
